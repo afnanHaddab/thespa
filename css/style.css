@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Poppins|Roboto');
+body{
+    margin-top:70px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+ h1,h2,h3,h4,h5,h6{
+    font-family: 'Poppins', sans-serif;
+}
+h1,h2{
+    color:#7d7dad !important;
+} 
+.navbar-light{
+    background:#fff;
+}
+
+.navbar-brand{
+    font-size: 20px;
+    color:#7d7dad !important;
+    font-weight: bold;
+}
+
+
+
+.btn-search{
+    color:#7d7dad !important;
+} 
+
+.btn-search:hover{
+    background:#2c2374 !important;
+    color:#fff !important;
+} 
+
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
+.btn-spa{
+    color:#7d7dad !important;
+} 
+
+.btn-spa:hover{
+    color:#2c2374 !important;
+} 
+
+#home h1{
+    font-size: 50px;
+    margin-bottom:20px;
+}
+#home img{
+    width:100%;
+    
+}
+
+#home .home-right{
+margin-top:90px;
+
+}
+
+#testimonial{
+    background: #f1f1f1;
+    padding:50px 0 30px 0;
+    text-align: center;
+    margin-top:30px;
+}
+
+#testimonial p{
+    font-size: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+    color:#000;
+    
+}
+
+
+#testimonial p.customer{
+font-size:20px;
+color:#666;
+}
+
+#last-minute .info-right{
+    margin:45px 0;
+}
+
+#last-minute img{
+    width:100%;
+    margin-top:20px;
+    
+}
+
+#gift-vouchers{
+    margin:90px 0 90px 0;
+
+}
+
+#contact{
+    background: url(../img/bg-spa.jpg);
+    background-size:100%;
+    padding:40px;
+    color:#fff;
+    border-top:7px solid #333;
+    border-bottom:7px solid #333;
+}
+#contact .btn-spa-submit{
+background:#7d7dad !important;
+border:#7d7dad ;
+
+}
+
+#contact .btn-spa-submit:hover{
+    background:#2c2374 !important;
+    border:#2c2374  ;
+}
+
+footer{
+padding:30px;
+}
